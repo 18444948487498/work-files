@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../js01-student"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js2-student"
+	}
+}
